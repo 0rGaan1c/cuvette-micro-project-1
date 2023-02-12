@@ -128,9 +128,8 @@ nav {
 .social_media_icons {
   position: sticky;
   top: 88px;
-  width: 4.5%;
-  margin-left: auto;
-  margin-top: -388px;
+  margin-top: 12vh;
+  float: right;
 }
 
 .social_media_icons > div {
